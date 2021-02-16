@@ -20,7 +20,7 @@
 
 ## :desktop_computer: About the project:
 
-:comet:  TypeScript Course for Beginners 2021 - Is a course that intend to allow the first contact of a developer with TypesSript.
+:comet:  TypeScript Course for Beginners 2021 - Is a course that intend to allow the first contact of a developer with TypeScript.
 
 :rocket: The project was developed with the purpose of being my first contact with TypeScript development.
 
